@@ -15,6 +15,7 @@ I'm primarily working for my projects, But I am also open to collaborate in othe
 Let's talk
 
 ### Hobbies
+    Building and Flying Drones
     Music (Hiphop, RnB and Reggae)
-    Yoga and Swimming
+    Yoga, Swimming, Singing and Rapping
     Natural World and Wild Life
