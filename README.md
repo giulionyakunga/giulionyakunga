@@ -19,3 +19,11 @@ Let's talk
     Music (Hiphop, RnB and Reggae)
     Yoga, Swimming, Singing and Rapping
     Natural World and Wild Life
+ 
+ 
+🧰 Toolbox
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/800px-Arduino_ftdi_chip-1.jpg" width="50" height="50"/>
+<img src="https://images.easytechjunkie.com/black-microprocessors.jpg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Electronics-projects.jpg/800px-Electronics-projects.jpg" alt="" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ThinkCentre_S50.jpg/800px-ThinkCentre_S50.jpg" alt="" width="50" height="50"/>
